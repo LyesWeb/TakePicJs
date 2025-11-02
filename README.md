@@ -58,9 +58,10 @@ https://takepicjs.netlify.com/script.js
 
 ### Demo
 
-You can test the module online : [TakePicJs](https://takepicjs.netlify.com)
+You can test the module online : [TakePicJs](https://takepicjs.netlify.app)
 
 ### Todos
 
  - User can rotate the picture
  - User can customize the UI
+
