@@ -16,9 +16,7 @@ For development no external framework was used, we used this language :
 ### Installation
 Several quick start options are available:
 Install with npm :
-```sh
-$ npm i @ilyas.ariba/takepicjs
-```
+
 
 You can also use CDN :
 ```text
@@ -64,4 +62,5 @@ You can test the module online : [TakePicJs](https://takepicjs.netlify.app)
 
  - User can rotate the picture
  - User can customize the UI
+
 
